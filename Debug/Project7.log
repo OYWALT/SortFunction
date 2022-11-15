@@ -1,0 +1,5 @@
+﻿  bubbleSort.cpp
+C:\Users\16272\source\repos\Project7\bubbleSort.cpp(17,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\16272\source\repos\Project7\bubbleSort.cpp(19,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\16272\source\repos\Project7\bubbleSort.cpp(30,20): warning C4018: “<”: 有符号/无符号不匹配
+  Project7.vcxproj -> C:\Users\16272\source\repos\Project7\Debug\Project7.exe
